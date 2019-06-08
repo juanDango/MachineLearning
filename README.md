@@ -1,2 +1,3 @@
-# MachineLearning
-A repository to learn octave and machine learning
+# Machine Learning
+This repository is to upload some machine learning programs in Octave
+The purpose is to learn the basics of ML
